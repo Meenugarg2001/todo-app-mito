@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    background: white;
+}
+
+.container .box1 .main {
+    box-sizing: border-box;
+    margin-top: 2%;
+    font-size: 15px;
+    text-align: left;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 2px;
+    margin-left: 38%;
+    justify-content: space-between;
+    text-transform: capitalize;
+    flex-wrap: wrap;
+}
+
+.box1 .add-note {
+    font-size: 15px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-top: 6%;
+    margin-left: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+
+}
+
+.box1 .sabtn {
+    font-size: 15px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-top: 2%;
+    margin-left: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.c1 {
+    margin-left: 8%;
+}
+
+.c2 {
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+    margin-left: 38%;
+    margin-top: 1%;
+}
+
+.table {
+    font-size: 20px;
+    border: 2;
+}
